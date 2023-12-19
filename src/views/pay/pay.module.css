@@ -1,0 +1,9 @@
+
+
+@media (max-width: 768px) {
+    .purchaseOrder {
+      position: sticky;
+      bottom: 0;
+      right: 0;
+    }
+  }
