@@ -20,12 +20,15 @@ npm start
 Para usar esta aplicación, abra el navegador en la dirección `http://localhost:3000`.
 
 ## Capturas de pantalla
+![Pantalla de inicio](screenshots/stripe_api1.jpeg)
+![Pantalla de inicio](screenshots/stripe_api2.jpeg)
+![Pantalla de inicio](screenshots/stripe_api3.jpeg)
 
 ### Pantalla de inicio
 
 La pantalla de inicio muestra un formulario para ingresar los detalles del pago.
 
-![Pantalla de inicio](screenshots/home.png)
+![Pantalla de inicio](screenshots/stripe_api4.jpeg)
 
 ### Pantalla de confirmación
 
